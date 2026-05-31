@@ -1,6 +1,6 @@
 # TV for Worms — Claude Code Reference
 
-**Repo:** `ConkerGG/Tv-For-Worms`
+**Repo:** `ConkerGG/TvForWorms`
 **Working branch:** `dev` — never push directly to `main`
 
 ---
